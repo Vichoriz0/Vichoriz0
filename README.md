@@ -1,9 +1,14 @@
 # 👋 Hello! 
 My name is Vicente (@Vichoriz0) and I'm a software developer currently residing in Chile. My prononouns are he/him.
 
-I have recently graduated from Universidad Andrés Bello (in Chile as well) as a computer engineer, and I don't much experience just yet, but I'm working to expand my knowledge and abilities and hopefully find a way to help with the challenges we are facing today as a society (mainly climate change).
+I have recently graduated from Universidad Andrés Bello as a computer engineer, and I don't much experience just yet, but I'm working in expanding my knowledge and abilities and hopefully find a way to help with the challenges we are facing today as a society (mainly climate change).
 
 Currently, I'm learning ReactJS and different platforms to host applications, like Firebase, Vercel, Heroku and Netifly. So far it's been a fun ride.
+
+Aside from the projects you can find in my repositories, you can check some smaller ones I've made:
+- Breaking Bad quotes: https://react-bb-quotes.netlify.app/
+- Working shopping cart: https://lucid-hermann-ae2835.netlify.app/
+- Beverage searcher: https://nostalgic-raman-0793b8.netlify.app/
 
 ___
 
